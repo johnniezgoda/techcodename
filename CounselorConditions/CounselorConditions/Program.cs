@@ -8,7 +8,6 @@ namespace CounselorConditions
 {
     class Program
     {
-
         static string askQuestion(string question)
         {
             Console.WriteLine(question);
