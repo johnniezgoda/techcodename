@@ -10,6 +10,7 @@ namespace DayTwoPractice
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
