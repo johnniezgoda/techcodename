@@ -17,12 +17,10 @@ namespace DayArray
             studentInClass[3] = "Dylan";
             studentInClass[4] = "Logan";
 
-            int i = 0;
-            while(i < studentInClass.Length)
+            for (int i = 0; i < studentInClass.Length; i++)
             {
-                Console.WriteLine(studentInClass[i]);
-                i++;
-            }
+               Console.WriteLine(studentInClass[i]);
+            } 
         }
     }
 }
