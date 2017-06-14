@@ -10,6 +10,7 @@ namespace Day3Lab1
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
